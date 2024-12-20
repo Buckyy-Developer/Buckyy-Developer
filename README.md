@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sadman Hossain, a passionate developer who loves working with web dev, mobile dev, ML and AI
 
-![Profile Views](https://komarev.com/ghpvc/?username=ImpiusVenatus&color=blue&style=flat)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourUsername&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=Buckyy-Developer&color=blue&style=flat)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBuckyy-Developer&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 ---
 
@@ -37,7 +37,7 @@
 
 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImpiusVenatus&layout=compact&cache_seconds=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buckyy-Developer&layout=compact&cache_seconds=60)
 
 🔗 Let's Connect!
 🌐 Portfolio
