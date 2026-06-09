@@ -1,45 +1,63 @@
-# 👋 Hi there, I'm Sadman Hossain, a passionate developer who loves working with web dev, mobile dev, ML and AI
+# 👋 Welcome to Buckyy
 
-![Profile Views](https://komarev.com/ghpvc/?username=Buckyy-Developer&color=blue&style=flat)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBuckyy-Developer&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+**Money Infrastructure for the Internet.**
 
----
-
-## 🚀 Tech Stack  
-
-### **Frontend**  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat)  
+We're building the financial rails for the next generation of digital lending and credit in emerging markets — starting with Bangladesh.
 
 ---
 
-### **Backend**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![AWS S3](https://img.shields.io/badge/-AWS_S3-232F3E?logo=amazon-aws&logoColor=white&style=flat)  
+## What We Build
+
+**🤖 Rini AI — Credit Scoring Engine**
+A 3-layer scoring system combining rule-based logic, ML models, and probabilistic assessment. Credit decisions in under 60 seconds, with alternative data support and SHAP-powered explainability.
+
+**💳 Buy Now, Pay Later (BNPL)**
+Flexible, transparent installment payments built for the mobile-first consumer. No paperwork. No branches.
+
+**🏦 Digital Lending Infrastructure**
+End-to-end loan lifecycle — onboarding, KYC, risk scoring, disbursement, and repayment — fully digital, modular, and API-first. Built for banks, NBFCs, and fintech partners.
+
+**💸 Banking-as-a-Service**
+Card programs, digital wallets, and payment rails that financial institutions can launch without starting from scratch.
 
 ---
 
-### **Machine Learning / AI**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat) ![numpy](https://img.shields.io/badge/-numpy-013243?logo=numpy&logoColor=white&style=flat)  
+## Our Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
-### **Mobile Development**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
+## By the Numbers
+
+| | |
+|---|---|
+| ⚡ **< 60 seconds** | Average credit decision time |
+| 🧠 **3-layer scoring** | Rule-based + ML + probabilistic models |
+| 📱 **100% digital flow** | Onboarding to repayment, no paper |
+| 🔌 **Modular APIs** | Plug into any bank or fintech stack |
 
 ---
 
-### **DevOps / Hosting**  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)  
+## Where We're Headed
+
+Expanding financial access across emerging markets — making credit faster, fairer, and available to people the traditional system leaves behind.
 
 ---
 
-### **Other Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white&style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat)
+## Get in Touch
 
-📊 GitHub Stats
+🌐 [buckyy.com](https://buckyy.com)
+📧 [info@buckyy.com](mailto:info@buckyy.com)
+💼 [LinkedIn](https://www.linkedin.com/company/buckyy/)
+📘 [Facebook](https://www.facebook.com/BuckyyPay)
+📸 [Instagram](https://www.instagram.com/buckyy.pay/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buckyy-Developer&layout=compact&cache_seconds=60)
+---
 
-🔗 Let's Connect!
-🌐 Portfolio
-💼 LinkedIn
-🐦 Twitter
+<sub>© Buckyy 2026 · House-NE(k) 13/A, Road-83, Gulshan-2, Dhaka-1212</sub>
